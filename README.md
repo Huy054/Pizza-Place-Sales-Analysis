@@ -37,14 +37,11 @@ Dự án trả lời các câu hỏi kinh doanh then chốt:
   Size L chiếm tỷ trọng doanh thu cao nhất, cho thấy khách hàng ưu tiên lựa chọn kích cỡ lớn khi đặt hàng, giúp tăng giá trị trung bình trên mỗi đơn hàng (AOV).
 
 ## 🖼️ Hình ảnh Demo (Visualizations)
-1. **Viết truy vấn SQL trích xuất KPI**  
-   Chứng minh kỹ năng viết SQL để giải quyết các yêu cầu truy vấn dữ liệu phức tạp từ nhiều bảng.
 
-2. **Dashboard Toàn diện (Power BI)**  
-   Dashboard tổng quan về doanh thu, số lượng đơn hàng và các chỉ số KPI vận hành.
 
-3. **Phân tích Xu hướng & Top Sellers**  
-   Biểu đồ chi tiết về các loại Pizza bán chạy nhất và xu hướng doanh thu theo khung giờ trong ngày.
+1. **Dashboard Toàn diện (Power BI)**  
+   ![Kết quả hệ thống báo cáo](./Pizza1.jpeg)
+
 
 ## 🚀 Cấu trúc thư mục
 * `pizza_sales_queries.sql`: File chứa toàn bộ mã nguồn SQL thực hiện ETL và trích xuất chỉ số.
