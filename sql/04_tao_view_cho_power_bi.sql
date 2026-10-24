@@ -12,7 +12,7 @@ USE Pizza_Sales_DB;
 GO
 
 IF OBJECT_ID(N'dbo.vw_pizza_prices_clean_v2', N'V') IS NULL
-    THROW 50001, N'Thieu VIEW vw_pizza_prices_clean_v2: can chay script 06 truoc.', 1;
+    THROW 50001, N'Thieu VIEW vw_pizza_prices_clean_v2: can chay script 02 truoc.', 1;
 IF EXISTS (
     SELECT 1 FROM dbo.vw_pizza_prices_clean_v2
     WHERE price_clean IS NULL OR price_clean <= 0
